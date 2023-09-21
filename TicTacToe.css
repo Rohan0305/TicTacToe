@@ -1,0 +1,55 @@
+body {
+    background-color: black; 
+}
+.Title {
+    color: cyan;
+    margin-top: 100px;
+    margin-right: 80px;
+    text-align: center;
+}
+
+.Board {
+    margin-left: 590px;
+}
+.grid-container {
+    margin-left: 520px;
+}
+.grid-button {
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    margin-left: 3px;
+    margin-bottom: 3px;
+    border-radius: 5px;
+    border-color: white;
+
+}
+
+.image{
+    width: 90px;
+    height: 90px;
+    margin-bottom: 7px;
+    padding-right: 2px;
+}
+
+.Reset {
+    margin-left: 616px;
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-left:18px;
+    padding-right: 18px;
+    padding-bottom: 18px;
+    width: 120px;
+    font-size: 20px;
+    border-radius: 60px;
+    background-color: rgb(84, 80, 80);
+    border-color: rgb(84, 80, 80);
+    border-style: solid;
+    color: cyan;
+}
+
+.Message {
+    font-size: 30px;
+    color: cyan;
+    text-align: center;
+}
